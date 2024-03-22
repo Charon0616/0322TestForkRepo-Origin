@@ -15,7 +15,7 @@ namespace RectangleApp
             width = 3.5;
             //width = 3.5;//new line sdqewrqYERTYFFFgsdfassdfaasdfwervzxcvadsggdsgsdfthhhhhhh
             //width = 3.5;//new line hy
-            //length = 4.5;//nsdfgdsadsgsgdcxbvfasdfsdfgsdfasasdfasdggasdfaxcvx
+            //length = 4.5;//nsdfgdsadsgsgdcxbvfasdfsdfgsdfasasdfasdggasdfaxcvxff
         }
         public double GetArea()  //为类Rectagle的成员函数ggsgsasdfgggasdfggfasdfdfgffffhhh
         {ffffffffvvx
