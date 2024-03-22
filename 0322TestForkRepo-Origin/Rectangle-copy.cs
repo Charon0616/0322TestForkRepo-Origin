@@ -4,7 +4,7 @@ namespace RectangleApp
 {
     class Rectangle001
     {qwer
-        //定义数据类型为double型,且有两个变量，lenght和widthasdfgsdsasdfdfashhh
+        //定义数据类型为double型,且有两个变量，lenght和widthasdfgsdsasdfdfashhhbbb
         double length;
         double width;//afds
         public void Accepdetails() //为类Rectagle的成员函数qwwersdftertwasdfsdfaaggggggcxvb
@@ -15,11 +15,11 @@ namespace RectangleApp
             width = 3.5;
             //width = 3.5;//new line sdqewrqYERTYFFFgsdfassdfaasdfwervzxcvadsggdsgsdfthhhhhhh
             //width = 3.5;//new line hy
-            //length = 4.5;//nsdfgdsadsgsgdcxbvfasdfsdfgsdfasasdfasdggasdfaxcvxffghhh
+            //length = 4.5;//nsdfgdsadsgsgdcxbvfasdfsdfgsdfasasdfasdggasdfaxcvxffghhhbbb
         }
         public double GetArea()  //为类Rectagle的成员函数ggsgsasdfgggasdfggfasdfdfgffffhhh
         {ffffffffvvx
-            return length * width;//lengthbcvbxdgsdfgggsfdagfgdsfggggswertasdgbxcvhh
+            return length * width;//lengthbcvbxdgsdfgggsfdagfgdsfggggswertasdgbxcvhhbbb
         }wertvvvv
         public void Display()   //为类Rectagle的成员函数sdsdfgasdfasdfasdfgfaasdfgabbbbvvvv
         {
