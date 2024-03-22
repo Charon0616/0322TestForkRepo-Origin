@@ -4,7 +4,7 @@ namespace RectangleApp
 {
     class Rectangle001
     {qwer
-        //定义数据类型为double型,且有两个变量，lenght和widthasdfgsdsasdfdfasdRYfgsaswereit
+        //定义数据类型为double型,且有两个变量，lenght和widthasdfgsdsasdfdfasdRYfgsaswereitfffff
         double length;
         double width;//afds
         public void Accepdetails() //为类Rectagle的成员函数qwwersdftertwasdfsdfaawtersdfg
@@ -17,7 +17,7 @@ namespace RectangleApp
             //width = 3.5;//new line hy
             //length = 4.5;//nsdfgdsadsgsgdcxbvfasdfsdfgsdfasasdfasdggasdfasgrrrfggsdfsdfsdgggg
         }
-        public double GetArea()  //为类Rectagle的成员函数ggsgsasdfgggasdfggfasdfsggsdfgsdgsdfg
+        public double GetArea()  //为类Rectagle的成员函数ggsgsasdfgggasdfggfasdfsggsdfgsdgsdfgffff
         {ffffffff
             return length * width;//lengthbcvbxdgsdfgggsfdagfgdsfggggswertasdgssfgsdffffc
         }wertvvvv
@@ -29,7 +29,7 @@ namespace RectangleApp
 
         }
     }
-    class ExcuteRectangle //类ExcuteRectangle是一个包含Main方法和实例化类的类sdfgsd
+    class ExcuteRectangle //类ExcuteRectangle是一个包含Main方法和实例化类的类sdfgsdffff
     {
         static void Main(string[] args)
         {
