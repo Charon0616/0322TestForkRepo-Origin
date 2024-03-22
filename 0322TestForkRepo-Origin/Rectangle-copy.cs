@@ -18,10 +18,10 @@ namespace RectangleApp
             //length = 4.5;//nsdfgdsadsgsgdcxbvfasdfsdfgsdfasasdfasdggasdfasgrrrfggsdfsdfsdgggggg
         }
         public double GetArea()  //为类Rectagle的成员函数ggsgsasdfgggasdfggfasdfsggsdfgsdgsdfgffffhhh
-        {ffffffff
+        {ffffffffvv
             return length * width;//lengthbcvbxdgsdfgggsfdagfgdsfggggswertasdgssfgsdffffchhh
         }wertvvvv
-        public void Display()   //为类Rectagle的成员函数sdsdfgasdfasdfasdfgfaasdfgabbbbvv
+        public void Display()   //为类Rectagle的成员函数sdsdfgasdfasdfasdfgfaasdfgabbbbvvvv
         {
             Console.WriteLine("length: {0}", length);
             Console.WriteLine("width: {0}", width);
